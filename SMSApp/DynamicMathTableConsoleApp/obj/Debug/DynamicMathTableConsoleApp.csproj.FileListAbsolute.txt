@@ -1,0 +1,7 @@
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\DynamicMathTableConsoleApp\bin\Debug\DynamicMathTableConsoleApp.exe.config
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\DynamicMathTableConsoleApp\bin\Debug\DynamicMathTableConsoleApp.exe
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\DynamicMathTableConsoleApp\bin\Debug\DynamicMathTableConsoleApp.pdb
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\DynamicMathTableConsoleApp\obj\Debug\DynamicMathTableConsoleApp.csprojAssemblyReference.cache
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\DynamicMathTableConsoleApp\obj\Debug\DynamicMathTableConsoleApp.csproj.CoreCompileInputs.cache
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\DynamicMathTableConsoleApp\obj\Debug\DynamicMathTableConsoleApp.exe
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\DynamicMathTableConsoleApp\obj\Debug\DynamicMathTableConsoleApp.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSApp", "TwillioSMSApp\SMS
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SMSAppSetup", "SMSAppSetup\SMSAppSetup.vdproj", "{E300CD51-21AD-4FFB-8F15-81C448D704F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicMathTableConsoleApp", "DynamicMathTableConsoleApp\DynamicMathTableConsoleApp.csproj", "{5EA28B06-F3C7-4293-AE0A-D54DA51CF7E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{2CD5C0A1-EE91-4691-8728-127C21D82A6E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E300CD51-21AD-4FFB-8F15-81C448D704F4}.Debug|Any CPU.ActiveCfg = Debug
 		{E300CD51-21AD-4FFB-8F15-81C448D704F4}.Release|Any CPU.ActiveCfg = Release
+		{5EA28B06-F3C7-4293-AE0A-D54DA51CF7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA28B06-F3C7-4293-AE0A-D54DA51CF7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA28B06-F3C7-4293-AE0A-D54DA51CF7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA28B06-F3C7-4293-AE0A-D54DA51CF7E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
