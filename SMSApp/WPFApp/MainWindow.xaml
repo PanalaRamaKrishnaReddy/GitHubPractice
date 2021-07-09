@@ -18,10 +18,13 @@
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
 
-        <Grid Grid.Row="1" Grid.Column="1">
+        <Grid Grid.Row="0" Grid.Column="0">
             <Label HorizontalAlignment="Center"
-                   VerticalAlignment="Center" FontSize="30"
+                   VerticalAlignment="Center" FontSize="40"
                    Foreground="Blue">Hello world...</Label>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="0">
+            <Label>Sample text for testing...</Label>                
         </Grid>
     </Grid>
 </Window>
