@@ -27,7 +27,7 @@ namespace SMSApp
             {
                 var response = vonageClient.SmsClient.SendAnSms(new Vonage.Messaging.SendSmsRequest()
                 {
-                    To = "918971862349",
+                    To = "<To mobile number goes here>", //9876543210
                     From = "Vonage APIs",
                     Text = txtMessage.Text
                 });
