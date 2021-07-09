@@ -20,7 +20,7 @@
 
         <Grid Grid.Row="1" Grid.Column="1">
             <Label HorizontalAlignment="Center"
-                   VerticalAlignment="Center" FontSize="30"
+                   VerticalAlignment="Center" FontSize="40"
                    Foreground="Blue">Hello world...</Label>
         </Grid>
     </Grid>
