@@ -1,0 +1,15 @@
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\bin\Debug\WPFApp.exe.config
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\bin\Debug\WPFApp.exe
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\bin\Debug\WPFApp.pdb
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\MainWindow.g.cs
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\App.g.cs
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\MainWindow.baml
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp.g.resources
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp.exe
+D:\RamaKrishna\TempProjects\GitHubPractice\SMSApp\WPFApp\obj\Debug\WPFApp.pdb
