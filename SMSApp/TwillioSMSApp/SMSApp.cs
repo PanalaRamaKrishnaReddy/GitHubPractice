@@ -34,7 +34,7 @@ namespace SMSApp
 
                 if(response != null && Convert.ToInt32(response.MessageCount) > 0 && response.Messages[0].StatusCode.ToString() == "Success")
                 {
-                    MessageBox.Show("Send successfully");
+                    MessageBox.Show("Send successfully...");
                 }
             }
             catch { MessageBox.Show("Please try again, after some time"); }
